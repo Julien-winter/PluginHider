@@ -1,0 +1,5 @@
+name: PluginHider
+version: 1.0.0
+main: de.julien.pluginhider.PluginHider
+author: Julien
+description: Blocks /pl and /plugins commands on all server software
