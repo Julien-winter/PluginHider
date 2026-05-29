@@ -1,5 +1,5 @@
 name: PluginHider
 version: 1.0.0
-main: de.julien.pluginhider.PluginHider
-author: Julien
+main: de.pluginhider.PluginHider
+author: PluginHider
 description: Blocks /pl and /plugins commands on all server software

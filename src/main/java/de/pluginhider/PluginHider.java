@@ -1,4 +1,4 @@
-package de.julien.pluginhider;
+package de.pluginhider;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
